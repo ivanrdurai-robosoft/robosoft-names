@@ -1,0 +1,27 @@
+{
+  "name": "usageofgithubmodule",
+  "version": "1.0.0",
+  "description": "\u0016This is a sample github application for training purpose",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanrdurai-robosoft/robosoft-names.git"
+  },
+  "keywords": [
+    "Random",
+    "Robosoft",
+    "Names"
+  ],
+  "author": "Ivan R Durai <ivan.durai@robosoftin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanrdurai-robosoft/robosoft-names/issues"
+  },
+  "homepage": "https://github.com/ivanrdurai-robosoft/robosoft-names#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
